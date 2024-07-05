@@ -4,4 +4,9 @@
     echo "<br>";
     echo "Drink";
     echo "<br>";
-    echo "Food";
+    echo "Food"; 
+    echo "<br>"
+    echo "Walk";
+    echo "<br>";
+    echo "Sit";
+    echo "<br>";?>
