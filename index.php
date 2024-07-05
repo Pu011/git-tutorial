@@ -2,4 +2,3 @@
 <?php echo "My name is Pu" ?>
 <?php echo "WOO! HOO!" ?>
 <?php echo "Nice to eat you" ?>
-<?php echo "Nice to meet you" ?>
